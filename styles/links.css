@@ -1,0 +1,12 @@
+.link {
+	font-family: input-mono, monospace;
+	color: blue;
+	text-decoration: none;
+}
+
+.link:hover {
+	font-family: input-mono, monospace;
+	color: black;
+	text-decoration: none;
+}
+/* styled links */
